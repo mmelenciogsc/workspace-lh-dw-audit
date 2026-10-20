@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/*_annotated.xlsx
+data/cleanup_results.json
+data/cleanup_results.csv
